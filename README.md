@@ -1,7 +1,8 @@
 # Webcam Divertida
+![image](https://user-images.githubusercontent.com/78622458/176052226-2537193d-4ad5-4a65-b1cb-92048d586ed0.png)
 
 ### 🔖 Sobre
-
+O desafio de hoje foi integrar o nosso código para dar permissão a uma Webcam, é um processo um pouco mais avançado. É necessário estar conectado com uma webcam para funcionar.
 <br/>
 <br/>
 19/30 <br/>
